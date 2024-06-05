@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "k5K7ut3phKYxQ5sPIDKE3wV0NoZ1tb0P6EnbDp2ofRQUGoRbyJ6gAorfAp8wQfzbQTIOazU3nEKbKNSvFRdPSw==",
+  "dgSpecHash": "9UFkKdWGjRkPmgUQ2NuN7c+tgd4Q8cqiLt1lm3OzCvh5oOZ652NlPaUXL9gBkRrA964gSXVUnlLugKUBOksefA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\N\\source\\repos\\ShoppingCart.Web\\ShoppingCart.DataAccess\\ShoppingCart.DataAccess.csproj",
+  "projectFilePath": "C:\\Users\\N\\Documents\\GitHub\\ShoppingCart\\ShoppingCart.Web\\ShoppingCart.DataAccess\\ShoppingCart.DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\N\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\N\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
