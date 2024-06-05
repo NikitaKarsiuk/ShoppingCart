@@ -1,0 +1,12 @@
+C:\Users\N\source\repos\ShoppingCart.Web\ShoppingCart.Models\bin\Debug\net6.0\ShoppingCart.Models.deps.json
+C:\Users\N\source\repos\ShoppingCart.Web\ShoppingCart.Models\bin\Debug\net6.0\ShoppingCart.Models.dll
+C:\Users\N\source\repos\ShoppingCart.Web\ShoppingCart.Models\bin\Debug\net6.0\ShoppingCart.Models.pdb
+C:\Users\N\source\repos\ShoppingCart.Web\ShoppingCart.Models\obj\Debug\net6.0\ShoppingCart.Models.csproj.AssemblyReference.cache
+C:\Users\N\source\repos\ShoppingCart.Web\ShoppingCart.Models\obj\Debug\net6.0\ShoppingCart.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\N\source\repos\ShoppingCart.Web\ShoppingCart.Models\obj\Debug\net6.0\ShoppingCart.Models.AssemblyInfoInputs.cache
+C:\Users\N\source\repos\ShoppingCart.Web\ShoppingCart.Models\obj\Debug\net6.0\ShoppingCart.Models.AssemblyInfo.cs
+C:\Users\N\source\repos\ShoppingCart.Web\ShoppingCart.Models\obj\Debug\net6.0\ShoppingCart.Models.csproj.CoreCompileInputs.cache
+C:\Users\N\source\repos\ShoppingCart.Web\ShoppingCart.Models\obj\Debug\net6.0\ShoppingCart.Models.dll
+C:\Users\N\source\repos\ShoppingCart.Web\ShoppingCart.Models\obj\Debug\net6.0\refint\ShoppingCart.Models.dll
+C:\Users\N\source\repos\ShoppingCart.Web\ShoppingCart.Models\obj\Debug\net6.0\ShoppingCart.Models.pdb
+C:\Users\N\source\repos\ShoppingCart.Web\ShoppingCart.Models\obj\Debug\net6.0\ref\ShoppingCart.Models.dll
