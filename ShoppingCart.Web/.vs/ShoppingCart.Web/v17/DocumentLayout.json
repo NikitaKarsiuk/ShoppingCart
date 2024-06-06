@@ -3,6 +3,30 @@
   "WorkspaceRootPath": "C:\\Users\\N\\Documents\\GitHub\\ShoppingCart\\ShoppingCart.Web\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CEC60360-77B7-4F03-B75A-E2818D9BFBA4}|ShoppingCart.Web\\ShoppingCart.Web.csproj|c:\\users\\n\\documents\\github\\shoppingcart\\shoppingcart.web\\shoppingcart.web\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CEC60360-77B7-4F03-B75A-E2818D9BFBA4}|ShoppingCart.Web\\ShoppingCart.Web.csproj|solutionrelative:shoppingcart.web\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEC60360-77B7-4F03-B75A-E2818D9BFBA4}|ShoppingCart.Web\\ShoppingCart.Web.csproj|c:\\users\\n\\documents\\github\\shoppingcart\\shoppingcart.web\\shoppingcart.web\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CEC60360-77B7-4F03-B75A-E2818D9BFBA4}|ShoppingCart.Web\\ShoppingCart.Web.csproj|solutionrelative:shoppingcart.web\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEC60360-77B7-4F03-B75A-E2818D9BFBA4}|ShoppingCart.Web\\ShoppingCart.Web.csproj|c:\\users\\n\\documents\\github\\shoppingcart\\shoppingcart.web\\shoppingcart.web\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEC60360-77B7-4F03-B75A-E2818D9BFBA4}|ShoppingCart.Web\\ShoppingCart.Web.csproj|solutionrelative:shoppingcart.web\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B22748-3293-4AAB-BEE6-9D447CE074C2}|ShoppingCart.DataAccess\\ShoppingCart.DataAccess.csproj|c:\\users\\n\\documents\\github\\shoppingcart\\shoppingcart.web\\shoppingcart.dataaccess\\viewmodels\\productvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8B22748-3293-4AAB-BEE6-9D447CE074C2}|ShoppingCart.DataAccess\\ShoppingCart.DataAccess.csproj|solutionrelative:shoppingcart.dataaccess\\viewmodels\\productvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEC60360-77B7-4F03-B75A-E2818D9BFBA4}|ShoppingCart.Web\\ShoppingCart.Web.csproj|c:\\users\\n\\documents\\github\\shoppingcart\\shoppingcart.web\\shoppingcart.web\\wwwroot\\js\\product.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{CEC60360-77B7-4F03-B75A-E2818D9BFBA4}|ShoppingCart.Web\\ShoppingCart.Web.csproj|solutionrelative:shoppingcart.web\\wwwroot\\js\\product.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEC60360-77B7-4F03-B75A-E2818D9BFBA4}|ShoppingCart.Web\\ShoppingCart.Web.csproj|c:\\users\\n\\documents\\github\\shoppingcart\\shoppingcart.web\\shoppingcart.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CEC60360-77B7-4F03-B75A-E2818D9BFBA4}|ShoppingCart.Web\\ShoppingCart.Web.csproj|solutionrelative:shoppingcart.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C8B22748-3293-4AAB-BEE6-9D447CE074C2}|ShoppingCart.DataAccess\\ShoppingCart.DataAccess.csproj|c:\\users\\n\\documents\\github\\shoppingcart\\shoppingcart.web\\shoppingcart.dataaccess\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C8B22748-3293-4AAB-BEE6-9D447CE074C2}|ShoppingCart.DataAccess\\ShoppingCart.DataAccess.csproj|solutionrelative:shoppingcart.dataaccess\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,10 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{CEC60360-77B7-4F03-B75A-E2818D9BFBA4}|ShoppingCart.Web\\ShoppingCart.Web.csproj|c:\\users\\n\\documents\\github\\shoppingcart\\shoppingcart.web\\shoppingcart.web\\areas\\admin\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{CEC60360-77B7-4F03-B75A-E2818D9BFBA4}|ShoppingCart.Web\\ShoppingCart.Web.csproj|solutionrelative:shoppingcart.web\\areas\\admin\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CEC60360-77B7-4F03-B75A-E2818D9BFBA4}|ShoppingCart.Web\\ShoppingCart.Web.csproj|c:\\users\\n\\documents\\github\\shoppingcart\\shoppingcart.web\\shoppingcart.web\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CEC60360-77B7-4F03-B75A-E2818D9BFBA4}|ShoppingCart.Web\\ShoppingCart.Web.csproj|solutionrelative:shoppingcart.web\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{62B88EAF-DAF6-4344-A557-C6BF9EA25DF1}|ShoppingCart.Models\\ShoppingCart.Models.csproj|c:\\users\\n\\documents\\github\\shoppingcart\\shoppingcart.web\\shoppingcart.models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -66,11 +86,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\N\\Documents\\GitHub\\ShoppingCart\\ShoppingCart.Web\\ShoppingCart.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ShoppingCart.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\N\\Documents\\GitHub\\ShoppingCart\\ShoppingCart.Web\\ShoppingCart.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ShoppingCart.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAEUAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-06T11:16:37.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.js",
+              "DocumentMoniker": "C:\\Users\\N\\Documents\\GitHub\\ShoppingCart\\ShoppingCart.Web\\ShoppingCart.Web\\wwwroot\\js\\Product.js",
+              "RelativeDocumentMoniker": "ShoppingCart.Web\\wwwroot\\js\\Product.js",
+              "ToolTip": "C:\\Users\\N\\Documents\\GitHub\\ShoppingCart\\ShoppingCart.Web\\ShoppingCart.Web\\wwwroot\\js\\Product.js",
+              "RelativeToolTip": "ShoppingCart.Web\\wwwroot\\js\\Product.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-06T11:15:41.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\N\\Documents\\GitHub\\ShoppingCart\\ShoppingCart.Web\\ShoppingCart.Web\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "ShoppingCart.Web\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\N\\Documents\\GitHub\\ShoppingCart\\ShoppingCart.Web\\ShoppingCart.Web\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "ShoppingCart.Web\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-06T11:11:21.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\N\\Documents\\GitHub\\ShoppingCart\\ShoppingCart.Web\\ShoppingCart.Web\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ShoppingCart.Web\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\N\\Documents\\GitHub\\ShoppingCart\\ShoppingCart.Web\\ShoppingCart.Web\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ShoppingCart.Web\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGgAAAB9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T10:42:19.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "ICategoryRepository.cs",
               "DocumentMoniker": "C:\\Users\\N\\Documents\\GitHub\\ShoppingCart\\ShoppingCart.Web\\ShoppingCart.DataAccess\\Repositories\\ICategoryRepository.cs",
               "RelativeDocumentMoniker": "ShoppingCart.DataAccess\\Repositories\\ICategoryRepository.cs",
@@ -78,12 +150,11 @@
               "RelativeToolTip": "ShoppingCart.DataAccess\\Repositories\\ICategoryRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T08:25:06.288Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-06T08:25:06.288Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "CategoryRepository.cs",
               "DocumentMoniker": "C:\\Users\\N\\Documents\\GitHub\\ShoppingCart\\ShoppingCart.Web\\ShoppingCart.DataAccess\\Repositories\\CategoryRepository.cs",
               "RelativeDocumentMoniker": "ShoppingCart.DataAccess\\Repositories\\CategoryRepository.cs",
@@ -96,7 +167,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\N\\Documents\\GitHub\\ShoppingCart\\ShoppingCart.Web\\ShoppingCart.Models\\Product.cs",
               "RelativeDocumentMoniker": "ShoppingCart.Models\\Product.cs",
@@ -104,12 +175,11 @@
               "RelativeToolTip": "ShoppingCart.Models\\Product.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T08:24:59.175Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-06T08:24:59.175Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 18,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\N\\Documents\\GitHub\\ShoppingCart\\ShoppingCart.Web\\ShoppingCart.Web\\Areas\\Admin\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "ShoppingCart.Web\\Areas\\Admin\\Views\\_ViewImports.cshtml",
@@ -117,12 +187,11 @@
               "RelativeToolTip": "ShoppingCart.Web\\Areas\\Admin\\Views\\_ViewImports.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-06T08:22:34.441Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-06T08:22:34.441Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "C:\\Users\\N\\Documents\\GitHub\\ShoppingCart\\ShoppingCart.Web\\ShoppingCart.Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "ShoppingCart.Models\\ErrorViewModel.cs",
@@ -130,12 +199,11 @@
               "RelativeToolTip": "ShoppingCart.Models\\ErrorViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T08:22:22.665Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-06T08:22:22.665Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "CategoryVM.cs",
               "DocumentMoniker": "C:\\Users\\N\\Documents\\GitHub\\ShoppingCart\\ShoppingCart.Web\\ShoppingCart.DataAccess\\ViewModels\\CategoryVM.cs",
               "RelativeDocumentMoniker": "ShoppingCart.DataAccess\\ViewModels\\CategoryVM.cs",
@@ -143,12 +211,11 @@
               "RelativeToolTip": "ShoppingCart.DataAccess\\ViewModels\\CategoryVM.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T08:22:14.68Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-06T08:22:14.68Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\N\\Documents\\GitHub\\ShoppingCart\\ShoppingCart.Web\\ShoppingCart.Models\\Category.cs",
               "RelativeDocumentMoniker": "ShoppingCart.Models\\Category.cs",
@@ -156,25 +223,37 @@
               "RelativeToolTip": "ShoppingCart.Models\\Category.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T08:21:55.135Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-06T08:21:55.135Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\N\\Documents\\GitHub\\ShoppingCart\\ShoppingCart.Web\\ShoppingCart.Web\\Areas\\Admin\\Views\\Category\\Index.cshtml",
               "RelativeDocumentMoniker": "ShoppingCart.Web\\Areas\\Admin\\Views\\Category\\Index.cshtml",
               "ToolTip": "C:\\Users\\N\\Documents\\GitHub\\ShoppingCart\\ShoppingCart.Web\\ShoppingCart.Web\\Areas\\Admin\\Views\\Category\\Index.cshtml",
               "RelativeToolTip": "ShoppingCart.Web\\Areas\\Admin\\Views\\Category\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAB6AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-06-06T07:39:58.943Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
+              "Title": "ProductVM.cs",
+              "DocumentMoniker": "C:\\Users\\N\\Documents\\GitHub\\ShoppingCart\\ShoppingCart.Web\\ShoppingCart.DataAccess\\ViewModels\\ProductVM.cs",
+              "RelativeDocumentMoniker": "ShoppingCart.DataAccess\\ViewModels\\ProductVM.cs",
+              "ToolTip": "C:\\Users\\N\\Documents\\GitHub\\ShoppingCart\\ShoppingCart.Web\\ShoppingCart.DataAccess\\ViewModels\\ProductVM.cs",
+              "RelativeToolTip": "ShoppingCart.DataAccess\\ViewModels\\ProductVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T11:49:57.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "CreateUpdate.cshtml",
               "DocumentMoniker": "C:\\Users\\N\\Documents\\GitHub\\ShoppingCart\\ShoppingCart.Web\\ShoppingCart.Web\\Areas\\Admin\\Views\\Category\\CreateUpdate.cshtml",
               "RelativeDocumentMoniker": "ShoppingCart.Web\\Areas\\Admin\\Views\\Category\\CreateUpdate.cshtml",
@@ -182,12 +261,11 @@
               "RelativeToolTip": "ShoppingCart.Web\\Areas\\Admin\\Views\\Category\\CreateUpdate.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-06T07:39:40.692Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-06T07:39:40.692Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "CategoryController.cs",
               "DocumentMoniker": "C:\\Users\\N\\Documents\\GitHub\\ShoppingCart\\ShoppingCart.Web\\ShoppingCart.Web\\Areas\\Admin\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "ShoppingCart.Web\\Areas\\Admin\\Controllers\\CategoryController.cs",
@@ -195,12 +273,11 @@
               "RelativeToolTip": "ShoppingCart.Web\\Areas\\Admin\\Controllers\\CategoryController.cs",
               "ViewState": "AQIAACsAAAAAAAAAAADwvz4AAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T07:53:47.457Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-05T07:53:47.457Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "UnitOfWork.cs",
               "DocumentMoniker": "C:\\Users\\N\\Documents\\GitHub\\ShoppingCart\\ShoppingCart.Web\\ShoppingCart.DataAccess\\Repositories\\UnitOfWork.cs",
               "RelativeDocumentMoniker": "ShoppingCart.DataAccess\\Repositories\\UnitOfWork.cs",
@@ -208,12 +285,11 @@
               "RelativeToolTip": "ShoppingCart.DataAccess\\Repositories\\UnitOfWork.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T08:25:16.793Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-06T08:25:16.793Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\N\\Documents\\GitHub\\ShoppingCart\\ShoppingCart.Web\\ShoppingCart.Web\\Areas\\Admin\\Views\\Category\\Delete.cshtml",
               "RelativeDocumentMoniker": "ShoppingCart.Web\\Areas\\Admin\\Views\\Category\\Delete.cshtml",
@@ -221,12 +297,11 @@
               "RelativeToolTip": "ShoppingCart.Web\\Areas\\Admin\\Views\\Category\\Delete.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-06T08:23:00.073Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-06T08:23:00.073Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "IUnitOfWork.cs",
               "DocumentMoniker": "C:\\Users\\N\\Documents\\GitHub\\ShoppingCart\\ShoppingCart.Web\\ShoppingCart.DataAccess\\Repositories\\IUnitOfWork.cs",
               "RelativeDocumentMoniker": "ShoppingCart.DataAccess\\Repositories\\IUnitOfWork.cs",
@@ -234,12 +309,11 @@
               "RelativeToolTip": "ShoppingCart.DataAccess\\Repositories\\IUnitOfWork.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T08:25:09.406Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-06T08:25:09.406Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 17,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\N\\Documents\\GitHub\\ShoppingCart\\ShoppingCart.Web\\ShoppingCart.Web\\Areas\\Admin\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "ShoppingCart.Web\\Areas\\Admin\\Views\\_ViewStart.cshtml",
@@ -247,8 +321,7 @@
               "RelativeToolTip": "ShoppingCart.Web\\Areas\\Admin\\Views\\_ViewStart.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-06T08:23:16.253Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-06T08:23:16.253Z"
             }
           ]
         }

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "lT9Mzxbrvv5MfHL8UQUiTFx3K2cedtIaz86nFtuD+kQ=",
+  "Hash": "d03QlIDa+hOa/4F5/5kEorYtPTSTyRV6bjJ2kZQf9w0=",
   "Source": "ShoppingCart.Web",
   "BasePath": "_content/ShoppingCart.Web",
   "Mode": "Default",
@@ -110,6 +110,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\N\\Documents\\GitHub\\ShoppingCart\\ShoppingCart.Web\\ShoppingCart.Web\\wwwroot\\js\\Product.js",
+      "SourceId": "ShoppingCart.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\N\\Documents\\GitHub\\ShoppingCart\\ShoppingCart.Web\\ShoppingCart.Web\\wwwroot\\",
+      "BasePath": "_content/ShoppingCart.Web",
+      "RelativePath": "js/Product.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\Product.js"
     },
     {
       "Identity": "C:\\Users\\N\\Documents\\GitHub\\ShoppingCart\\ShoppingCart.Web\\ShoppingCart.Web\\wwwroot\\js\\site.js",

@@ -521,3 +521,5 @@ C:\Users\N\Documents\GitHub\ShoppingCart\ShoppingCart.Web\ShoppingCart.Web\obj\D
 C:\Users\N\Documents\GitHub\ShoppingCart\ShoppingCart.Web\ShoppingCart.Web\obj\Debug\net6.0\Shopping.81D3397B.Up2Date
 C:\Users\N\Documents\GitHub\ShoppingCart\ShoppingCart.Web\ShoppingCart.Web\obj\Debug\net6.0\ShoppingCart.Web.genruntimeconfig.cache
 C:\Users\N\Documents\GitHub\ShoppingCart\ShoppingCart.Web\ShoppingCart.Web\obj\Debug\net6.0\ref\ShoppingCart.Web.dll
+C:\Users\N\Documents\GitHub\ShoppingCart\ShoppingCart.Web\ShoppingCart.Web\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\N\Documents\GitHub\ShoppingCart\ShoppingCart.Web\ShoppingCart.Web\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
