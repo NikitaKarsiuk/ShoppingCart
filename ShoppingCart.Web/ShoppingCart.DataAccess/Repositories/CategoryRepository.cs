@@ -22,7 +22,7 @@ namespace ShoppingCart.DataAccess.Repositories
             if (categoryDb != null)
             {
                 categoryDb.Name = category.Name;
-                category.DisplayOrder = category.DisplayOrder;
+                categoryDb.DisplayOrder = category.DisplayOrder;
             }
         }
     }
