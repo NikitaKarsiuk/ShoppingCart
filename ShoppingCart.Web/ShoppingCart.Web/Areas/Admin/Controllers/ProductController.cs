@@ -105,7 +105,7 @@ namespace ShoppingCart.Web.Areas.Admin.Controllers
                         var oldImagePath = Path.Combine(_hostingEnvironment.WebRootPath, vm.Product.ImageUrl.TrimStart('\\'));
                         if (System.IO.File.Exists(oldImagePath))
                         {
-
+                            System.IO.File.Exists(oldImagePath);
                         }
                     }
                     using (var fileStream = new FileStream(filePath, FileMode.Create))
