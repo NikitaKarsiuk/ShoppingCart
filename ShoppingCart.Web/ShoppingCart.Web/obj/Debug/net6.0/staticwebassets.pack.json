@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\ShoppingCart.Web.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\N\\Documents\\GitHub\\ShoppingCart\\ShoppingCart.Web\\ShoppingCart.Web\\wwwroot\\ProductImage\\64955668-b36f-499d-a223-4e0920df18cd-Gray1.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\64955668-b36f-499d-a223-4e0920df18cd-Gray1.jpg"
+    },
+    {
       "Id": "C:\\Users\\N\\Documents\\GitHub\\ShoppingCart\\ShoppingCart.Web\\ShoppingCart.Web\\wwwroot\\css\\Sketchy.css",
       "PackagePath": "staticwebassets\\css\\Sketchy.css"
     },

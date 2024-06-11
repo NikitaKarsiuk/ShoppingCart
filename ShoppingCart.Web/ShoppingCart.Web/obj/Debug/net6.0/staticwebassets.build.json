@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "d03QlIDa+hOa/4F5/5kEorYtPTSTyRV6bjJ2kZQf9w0=",
+  "Hash": "xF/eoLkhrP580UslqHWmXy4MNHrg6K8O2oDJqovcxGo=",
   "Source": "ShoppingCart.Web",
   "BasePath": "_content/ShoppingCart.Web",
   "Mode": "Default",
@@ -1231,6 +1231,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Identity": "C:\\Users\\N\\Documents\\GitHub\\ShoppingCart\\ShoppingCart.Web\\ShoppingCart.Web\\wwwroot\\ProductImage\\64955668-b36f-499d-a223-4e0920df18cd-Gray1.jpg",
+      "SourceId": "ShoppingCart.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\N\\Documents\\GitHub\\ShoppingCart\\ShoppingCart.Web\\ShoppingCart.Web\\wwwroot\\",
+      "BasePath": "_content/ShoppingCart.Web",
+      "RelativePath": "ProductImage/64955668-b36f-499d-a223-4e0920df18cd-Gray1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\ProductImage\\64955668-b36f-499d-a223-4e0920df18cd-Gray1.jpg"
     }
   ]
 }

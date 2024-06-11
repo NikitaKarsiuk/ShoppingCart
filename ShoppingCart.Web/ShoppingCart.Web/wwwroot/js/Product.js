@@ -7,7 +7,7 @@ $(document).ready(function () {
             { "data": "name" },
             { "data": "description" },
             { "data": "price" },
-            { "data": "category.Name" },
+            { "data": "category.name" },
             {
                 "data": "id",
                 "render": function (data) {
